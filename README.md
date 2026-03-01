@@ -6,7 +6,7 @@ This project explores **Unsupervised Learning** techniques to identify patterns 
 
 The primary focus is on **HDBSCAN** (Hierarchical Density-Based Spatial Clustering of Applications with Noise). We compare its performance and methodology against the traditional **K-Means** algorithm, specifically highlighting HDBSCAN's ability to handle noise and clusters of varying densities and shapes.
 
-## 🚀 Workflow
+## Workflow
 
 The `HDBSCAN.ipynb` notebook follows this pipeline:
 
